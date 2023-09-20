@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <br>
 📫 Reach me at kavandalal.work@gmail.com.
 <br>
-🤔 I’m looking for help with Open-source contributions.<br>
+🤔 Beginner in open-source contributions.<br>
 
 
 ---
