@@ -14,16 +14,15 @@ Here are some ideas to get you started:
 -->
 
 ## 💫 About Me: [See the same things in website form aka Portfolio](http://kavan.work)
-🔭 I’m currently enjoying developing web apps from start to end.
-<br>
-🌱 As challenges come, learning continues to be an ongoing process.
-<br>
-💬 Ask me about Web Development, programming, tech stuff.
-<br>
-📫 Reach me at kavandalal.work@gmail.com.
-<br>
-🤔 Beginner in open-source contributions.<br>
+🔭 I’m currently working as a full-time Full Stack Software Engineer with over 3 years of experience, building web applications from start to finish.
 
+🌱 I believe learning never stops — every challenge helps me grow and sharpen my skills.
+
+💬 Feel free to ask me about Web Development, programming, software architecture, or tech trends.
+
+📫 Reach me at kavandalal.work@gmail.com.
+
+🤔 Open to learning and contributing more to open-source projects as I expand my experience.
 
 ---
 ## 💻 Tech Stack:
