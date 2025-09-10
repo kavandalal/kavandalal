@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 💫 About Me: [View Portfolio](http://kavan.work)
+## 💫 About Me: [See the same things in website form aka Portfolio](http://kavan.work)
 🔭 I’m currently enjoying developing web apps from start to end.
 <br>
 🌱 As challenges come, learning continues to be an ongoing process.
